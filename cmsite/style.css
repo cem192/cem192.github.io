@@ -43,7 +43,7 @@ body {
 }
 
 
-.top-row section {
+.top-row{
   border-width: 10px;
   border-color: rgb(25,25,25);
   border: solid;
@@ -57,7 +57,7 @@ body {
   border-radius: 10px;
 }
 
-.bottom-row section {
+.bottom-row {
   height: auto;
   border-width: 10px;
   border-color: rgb(25,25,25);
@@ -73,11 +73,11 @@ body {
   border-radius: 10px;
 }
 
-.no-margin section {
+.no-margin {
   margin-right: 0;
 }
 
-.bottom-row section img {
+.bottom-row img {
   width: 100%;
   border-radius: 10px;
 }
